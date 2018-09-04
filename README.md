@@ -1,6 +1,6 @@
 # Moving to Helsinki! 🇫🇮🤘
 
-Moving to lovely Copenhagen or just arrived here? Awesome! Here are some tips, hacks and advice to get you on your feet. 
+Moving to lovely Helsinki or just arrived here? Awesome! Here are some tips, hacks and advice to get you on your feet. 
 
 Taking on a new job, city, social circle and culture at once is tough. We say: less worrying about paperwork - more drinking delicious beers, enjoy *the sauna* and exploring the city and surrounding nature! Welcome to Suomi (Finland) 💙
 
@@ -20,7 +20,7 @@ Taking on a new job, city, social circle and culture at once is tough. We say: l
 
 ## What’s next?
 
-This is version 1.0 of the guide. 
+This is version 0.1 of the guide. 
 
 The guide will be more helpful if it captures the needs and issues faced among many immigrants, which is why we’re looking for feedback and hopefully partners to collaborate with on it as a joint community effort.
 
