@@ -1,0 +1,40 @@
+# Site settings
+title: Moving to Helsinki 🇫🇮🤘
+email: krumhausen@gmail.com
+description: Moving to lovely Helsinki or just arrived here? Awesome! Here are some tips, hacks and advice to get you on your feet.
+baseurl: ""
+url: "https://movingtohel.com"
+twitter_username: krumhausen
+github_username:  mrkrumhausen
+GoogleAnalytics: UA-10127534-4
+
+sass:
+    style: compressed
+
+
+# Build settings
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+theme: minima
+
+plugins:
+#  - jekyll-redirect-from
+#  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+#  - jekyll-feed
+  - jemoji
+
+defaults:
+    - {scope: {type: posts}, values: {layout: post, permalink: '/blog/:title'}}
+
+include:
+  - _pages
+
+exclude:
+  - CNAME
+  - README.md
+  - Gemfile
+  - Gemfile.lock
