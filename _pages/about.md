@@ -2,19 +2,30 @@
 layout: default
 title: About
 permalink: /about/
-navigation: false
+navigation: true
 ---
-This is the [emping](https://github.com/rmsubekti/emping) Jekyll theme based on the default( base ) jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+This is version 0.1 of the guide.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The guide will be more helpful if it captures the needs and issues faced among many immigrants, which is why we’re looking for feedback and hopefully partners to collaborate with on it as a joint community effort.
 
----
+Sound like something you want to be part of?
+
+**We’d love to hear about:**
+
+🙌 Issues you’ve faced moving to / helping to settle in new recruits
+
+🙌 What other hacks and tricks we should include?
+
+🙌 Whether this would be helpful for you/your startup?
+
+🙌 Any other feedback just get in touch with krumhausen@gmail.com
+
+
+
+## Who we are
+[Sebastian Krumhausen](https://krumhausen.com): Product Manager & Strategist
+
 
 ### Site Last Generated : {{ site.time | date: "%-d %B %Y"  }}
 
